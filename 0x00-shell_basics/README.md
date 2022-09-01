@@ -1,1 +1,1 @@
-Delete the file
+Bye bye Betty
