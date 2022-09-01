@@ -1,1 +1,1 @@
-Script that lists all files even ones with names beginning with a period character
+Write a script that prints the type of the file named
