@@ -1,1 +1,1 @@
-Create a script that copies all the HTML files from current working directory
+Create script that copies HTML files
