@@ -1,1 +1,1 @@
-Create script that copies HTML files
+Create cript that copies HTML files
